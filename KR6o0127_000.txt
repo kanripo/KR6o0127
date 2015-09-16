@@ -1,0 +1,4 @@
+#-*- mode: mandoku-view; -*-
+#+TITLE: 龍樹菩薩為禪陀迦王說法要偈
+#+DATE: 2015-08-30 21:01:19.853681
+#+PROPERTY: JUAN 0
